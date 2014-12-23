@@ -1,6 +1,6 @@
 {
-  "name": "zscroll.js",
-  "main": "zscroll.js",
+  "name": "zscroll-js",
+  "main": "zscroll.min.js",
   "version": "0.1.0",
   "homepage": "https://github.com/thecatontheflat/zscroll.js",
   "authors": [
