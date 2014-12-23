@@ -4,6 +4,10 @@
 
 # Usage
 
+You can get this script either from this repository or by running 
+
+    bower install zscroll-js
+
 To activate events with the scrolling directions in your page, simply include the library file - it will register all events automatically.
 
     <script src="zscroll.min.js"></script>
