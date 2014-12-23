@@ -14,7 +14,11 @@
 
 <script>
     (function () {
-        Z.scroll.init();
+        Z.scroll.registerScrollEvents();
+
+        document.addEventListener('zscroll', function (e) {
+            console.log(e.detail.direction);
+        }, false);
     })();
 </script>
 </body>
