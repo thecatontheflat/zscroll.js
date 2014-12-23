@@ -6,7 +6,7 @@
 
 To activate events with the scrolling directions in your page, simply include the library file - it will register all events automatically.
 
-    <script src="zscroll.js"></script>
+    <script src="zscroll.min.js"></script>
 
 Then, start listening for the events:
 
