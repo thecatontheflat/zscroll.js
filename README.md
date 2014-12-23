@@ -14,7 +14,7 @@ Then, start listening for the events:
         console.log(e.detail.direction);
     }, false);
 
-The `e.detail` object contain the following attributes:
+The `e.detail` object contains the following attributes:
 
     {
         direction: string // One of those: up, down, left, right
